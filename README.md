@@ -226,7 +226,7 @@ def summary
   "#{self.name}: $#{self.price}"
 end
 ```
-
+rails con
 Go ahead and test this new method out in the Rails console by running a query on
 one of our records, for example:
 
